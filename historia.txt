@@ -2,4 +2,8 @@ Maniana nos enfocaremos en su prostibulo
 
 master 1
 
+<<<<<<< HEAD
 experimento 1
+=======
+master 2
+>>>>>>> ee6e60c2e1c0435ad48e150ef933eb3d16317a93
